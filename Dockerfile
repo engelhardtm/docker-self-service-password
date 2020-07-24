@@ -11,6 +11,8 @@ RUN apk --no-cache add \
     php7-mbstring \
     php7-mcrypt \
     php7-ldap \
+    php7-session \
+    php7-iconv \
     nginx \
     supervisor \
     curl \
